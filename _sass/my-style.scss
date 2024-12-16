@@ -12,3 +12,84 @@
     margin: 1rem 0;
   }
 }
+
+/* Betty Bolton Discography CSS */
+
+#title h1, h2, h3 {
+  text-transform: uppercase;
+}
+
+#thanks {
+  padding-left: 22px;
+  text-indent: -22px;
+  list-style-type: none;
+}
+
+#reflist ul {
+  list-style-type: none;
+  text-indent: -22px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px;
+}
+
+#abbreviations td {
+  padding: 5px;
+}
+
+#discography div {
+  padding-bottom: 3px;
+}
+
+.session h3 {
+  text-transform: none;
+}
+
+.session-notes {
+  font-style: italic;
+}
+
+.session-notes cite,
+.session-notes em {
+  font-style: normal;
+}
+
+.sources {
+  font-weight: bold;
+  font-size: 85%;
+}
+
+.session .lp {
+  text-decoration: underline;
+}
+
+.session .cd {
+  text-decoration: underline;
+}
+
+.session tr td:nth-child(1) {
+  white-space: nowrap;
+}
+
+.session tr td:nth-child(3) {
+  font-style: italic;
+  white-space: break-spaces;
+}
+
+.session tr td:nth-child(3).cf,
+.session tr td:nth-child(3) span.cf {
+  font-style: normal;
+}
+
+.session tr td:nth-child(4) {
+  white-space: nowrap;
+}
+
+.issued {
+  text-decoration: underline;
+}
