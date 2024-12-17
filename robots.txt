@@ -1,4 +1,4 @@
-User-agent: Screaming Frog SEO Spider/20.2
+User-agent: Screaming Frog SEO Spider
 Disallow:
 
 User-agent: *
