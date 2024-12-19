@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Thank You!
-sitemap: false
+title: Betty Bolton
 ---
+
+## Coming soon!
 
 Thank you for buying the PRO version of Hydejack! 🎉
 
