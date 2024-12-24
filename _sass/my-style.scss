@@ -74,6 +74,24 @@ table {
   text-decoration: underline;
 }
 
+.session > .session-notes::before {
+  content: "NOTE: ";
+}
+
+.session > .session-notes ~ .session-notes::before {
+  content: '';
+}
+
+.session > .session-notes {
+  padding-left: 50px;
+  text-indent: -46px;
+}
+
+.session > .session-notes ~ .session-notes {
+  padding-left: 50px;
+  text-indent: 0;
+}
+
 .session tr td:nth-child(1) {
   white-space: nowrap;
 }
