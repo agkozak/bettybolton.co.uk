@@ -2,6 +2,8 @@
 layout: 	page
 title:		Contact Me
 permalink:	/contact/
+description:    >
+  Contact the author (A. G. Kozak) with questions and information.
 ---
 
 <form action="https://fabform.io/f/z9Skwlv" method="post">

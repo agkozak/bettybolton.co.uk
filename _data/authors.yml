@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
+agkozak:
   name:              A. G. Kozak 
   # email:             <mail@domain.tld>
 
@@ -34,7 +34,7 @@ author1:
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:         agkozak
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
