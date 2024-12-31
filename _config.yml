@@ -60,6 +60,8 @@ menu:
     url:               /biography/
   - title:             Discography
     url:               /discography/
+  - title:             Playlist
+    url:               /playlist/
   - title:             Contact
     url:               /contact/
 
