@@ -48,16 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projects
+#    url:               /projects/
   - title:             Biography
     url:               /biography/
+  - title:             Images
+    url:               /images/
   - title:             Discography
     url:               /discography/
   - title:             Playlist
