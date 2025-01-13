@@ -23,13 +23,11 @@ image:
 	Public Working Draft<br>
 	(Updated: January 13, 2025)<br>
 
-	
-
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 	<!-- <p style="margin-top: 14px; margin-bottom: -2px;">Download the PDF:</p>
 
-	<a href="https://doi.org/10.5281/zenodo.7443923"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7443923.svg" alt="DOI"></a> -->
+	<a href="https://doi.org/10.5281/zenodo.<NUMBER>"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.<NUMBER>.svg" alt="DOI"></a> -->
 </div>
 
 <section id="toc">
@@ -1612,7 +1610,7 @@ image:
 
 		<table>
 			<tr>
-				<td>2349-<span class="issued">2</span></td>
+				<td>2349-<span class="issued">1</span>-<span class="issued">2</span></td>
 				<td>Don&rsquo;t &rsquo;ang my &rsquo;Arry (Newman)</td>
 				<td class="cf">Ecl 906</td>
 			</tr>
