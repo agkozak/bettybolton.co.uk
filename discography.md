@@ -1621,7 +1621,7 @@ image:
 			</tr>
 		</table>
 
-		<p class="sources">MGT-Ecl, DW</p>
+		<p class="sources">MGT-Ecl, DW, AGK</p>
 
 	</div>
 
