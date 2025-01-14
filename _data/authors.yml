@@ -28,13 +28,10 @@ agkozak:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     # twitter:         <username>
-    github:          agkozak
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    youtube:         agkozak
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -78,9 +75,12 @@ agkozak:
     # xbox:            <gamer-tag>
     # wechat:          https://<url>
     # discord:         <invite-code>
-    # mastodon:        https://<url>
     # x:               <username>
     bluesky:         bettybolton.co.uk
+    facebook:        bettybolton.co.uk
+    mastodon:        https://mastodon.world/@bettybolton
+    youtube:         agkozak
+    github:          agkozak
 
 # Another author (optional)
 author2:
