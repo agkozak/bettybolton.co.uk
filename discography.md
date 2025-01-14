@@ -821,7 +821,7 @@ image:
 
 		<table>
 			<tr>
-				<td>MB-1059-1-2<span class="issued">3</span></td>
+				<td>MB-1059-1-2-<span class="issued">3</span></td>
 				<td>Moanin&rsquo; low (Rainger-Dietz)</td>
 				<td class="cf">Dec F-2217</td>
 			</tr>
