@@ -1,6 +1,7 @@
 ---
 layout:		page
-title: 		A Betty Bolton Discography
+title: >
+  Up in the Clouds: A Betty Bolton Discography
 permalink:	/discography/
 description: >
   This discography documents Betty Bolton's sound recordings (1929-1935).
@@ -21,7 +22,7 @@ image:
 	</div>
 	<br>
 	Public Working Draft<br>
-	(Updated: January 13, 2025)<br>
+	(Updated: January 15, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
