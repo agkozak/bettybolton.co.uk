@@ -10,4 +10,8 @@ image:
 
 ## Coming in January 2025!
 
-A website devoted to British interwar recording artist Betty Bolton.
+Slated for a January 26, 2025 official launch, [bettybolton.co.uk](/) is intended to be a hub for all things Betty Bolton. I have not finished my biography page yet, but in the meantime you may enjoy the growing collection of [images](/images/), the new [discography](/discography/), and the [YouTube playlist](/playlist/). In the near future there will be a blog. Social media accounts are also in the works.
+
+As always, if you have any suggestions or additions, please [contact me](/contact/).
+
+A. G. Kozak
