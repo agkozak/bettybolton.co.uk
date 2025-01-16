@@ -3,7 +3,8 @@ layout:		page
 title:		Images of Betty Bolton
 permalink:	/images/
 description: >
-  A collection of photographs of Betty Bolton over the course of her career.
+  A collection of photographs of Betty Bolton (1906-2005) over the course of
+  her career.
 ---
 
 - Table of Contents

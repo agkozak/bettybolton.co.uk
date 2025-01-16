@@ -3,10 +3,7 @@ layout:		page
 title: "Up in the Clouds: A Betty Bolton Discography"
 permalink:	/discography/
 description: >
-  This discography documents Betty Bolton's sound recordings (1929-1935).
-  It identifies bands and other accompaniment, vocal partners, session locations
-  and dates, matrix and take numbers, titles, songwriters, and labels and
-  catalogue numbers (including non-UK issues).
+  This discography documents Betty Bolton's 115 sound recordings (1929-1935).
 image:
   path: /assets/img/discography/betty-bolton-discography.png
 ---
