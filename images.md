@@ -110,9 +110,18 @@ From the collection of John Wright
 
 ## 1936
 
+![Betty Bolton in 1936](assets/img/images/Betty-Bolton-1936.jpg)
+{: style="text-align: center;"}
+
+Betty Bolton in 1936  
+(A version of this picture appears in the July 3, 1936 issue of *Radio Pictorial* and is described as being then current)  
+From the collection of Terry Brown
+{:.figcaption}
+
+
 ![Betty Bolton in "Radio Pie" (1936)](assets/img/images/betty-bolton-radio-pie.jpg)
 {: style="text-align: center;"}
 
-Betty Bolton in the 1936 *Radio Pie: Your Guide to the B.B.C. Stars*; the actual photo may be considerably earlier  
+Betty Bolton in the 1936 *Radio Pie: Your Guide to the B.B.C. Stars* (the actual photo may have been taken earlier)  
 From the collection of Terry Brown
 {: .figcaption}
