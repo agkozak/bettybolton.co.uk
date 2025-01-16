@@ -1,7 +1,6 @@
 ---
 layout:		page
-title: >
-  Up in the Clouds: A Betty Bolton Discography
+title: "Up in the Clouds: A Betty Bolton Discography"
 permalink:	/discography/
 description: >
   This discography documents Betty Bolton's sound recordings (1929-1935).
