@@ -1,5 +1,1 @@
-User-agent: Screaming Frog SEO Spider
-Disallow:
-
-User-agent: *
-Disallow: /
+Sitemap: https://bettybolton.co.uk/sitemap.xml
