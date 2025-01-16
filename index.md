@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Betty Bolton
+image:
+  path: /assets/img/sidebar-bg.jpg
 ---
 
 ## Coming in January 2025!
