@@ -1,1 +1,3 @@
 Sitemap: https://bettybolton.co.uk/sitemap.xml
+
+Disallow: /cdn-cgi/

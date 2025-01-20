@@ -15,6 +15,12 @@
   }
 }
 
+/* Better spacing for footnotes */
+
+.footnotes > ol > li {
+  padding: 0;
+}
+
 /* Make YouTube iframe embeds responsive */
 
 .youtube-video {
