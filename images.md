@@ -5,6 +5,8 @@ permalink:	/images/
 description: >
   A collection of photographs of Betty Bolton (1906-2005) over the course of
   her career
+image:
+  path: /assets/img/sidebar-bg.jpg
 ---
 
 - Table of Contents
