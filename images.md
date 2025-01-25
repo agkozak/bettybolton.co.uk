@@ -128,3 +128,12 @@ From the collection of Terry Brown
 Betty Bolton in the 1936 *Radio Pie: Your Guide to the B.B.C. Stars* (the actual photo may have been taken earlier)  
 From the collection of Terry Brown
 {: .figcaption}
+
+## 1937
+
+![Advertisement for the "Empire Follies" (1937)](/assets/img/biography/betty-bolton-empire-follies-1937.jpg)
+{: style="text-align: center;"}
+
+Advertisement for Betty Bolton's "Empire Follies" Broadcast (1937)  
+*Radio Pictorial*, 1937
+{:.figcaption}
