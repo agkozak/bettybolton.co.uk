@@ -39,8 +39,8 @@ This was not even the last time that Bolton would perform in French on BBC radio
 {: style="text-align: center;"}
 
 "Betty Bolton as she used to be---not so many years ago!"  
-Madame \[Maude\] Bolton, *Radio Pictorial*, July 3, 1936  
-(From the collection of Terry Brown)
+From an article by Madame \[Maud\] Bolton, *Radio Pictorial*, July 3, 1936  
+From the collection of Terry Brown
 {:.figcaption}
 
 Maud Elizabeth Tildesley was born on January 26, 1906 in Nottingham to Francis John Tildesley and Helen Maud Tildesley, née Bolton. Her father was an accountant in the postal service, according to the birth registry, while her mother was a dancing teacher: "Madame Maud Bolton." From an early age, Maud Elizabeth was known by a diminutive of her middle name and by her mother's surname: "Betty Bolton." Madame Bolton seems to have inherited her dance school from another teacher in the year after Betty's birth[^9] and certainly oversaw a thriving operation,[^10] which she may have run with the help of her younger sister Annie Christine.[^11]
@@ -101,10 +101,10 @@ Another Grattan--Charlot production, *Cheep* (1917--1918), also starring Lee Whi
 
 Lee White's next production was *Back Again* (1919), and this time the cast included Elsie Carlisle in her first London role.[^24] Bolton appeared as "Betty-All-Alone (Only 13 and comes from Nottingham, so she wants your sympathy)."[^25] It is interesting to note that Bolton's mother, Madame Maud Bolton, was employed in *Back Again* as "producer and ballet mistress" (at this time she seems also to have been independently directing ballets).[^26]
 
-!["Back Again" Sheet Music Depicting Lee White](/assets/img/biography/Back-Again.png)
+!["Back Again" sheet music depicting Lee White](/assets/img/biography/Back-Again.png)
 {: style="text-align: center;"}
 
-"Back Again" (1919) Sheet Music Depicting Lee White
+"Back Again" (1919) sheet music depicting Lee White
 {:.figcaption}
 
 When the successful show toured abroad, Bolton left it and joined Basil Dean's *Fifinella* (1919), the last show in which she played a child.[^27] In this elaborate fairy tale, Bolton was cast as a boy character.[^28]
