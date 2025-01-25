@@ -287,7 +287,7 @@ Betty Bolton died at the age of 99 on April 2, 2005. Having contributed, as a ch
 
 ## Acknowledgements
 
-My special thanks go to Alan Black, Terry Brown, Charles Hippisley-Cox, Dr. Donald F. McLean, and Ray Pallett for assisting my research.
+My special thanks go to Alan Black, Terry Brown, Charles Hippisley-Cox, Dr. Donald F. McLean, Steve Paget, and Ray Pallett for assisting my research. I thank my wife Erin for her help finalizing the text of this biography.
 
 [^1]: ["Tonight's Programme,"](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000671/19261101/006/0006) *Evening Dispatch*, November 1, 1926, 6, BNA.
 [^2]: ["A Joke on the B.B.C.: Why English Girl Was Engaged (French Pose),"](https://www.britishnewspaperarchive.co.uk/viewer/BL/0003358/19261107/004/0001?browse=False) *Weekly Dispatch* (London), November 7, 1926, 1, BNA.
