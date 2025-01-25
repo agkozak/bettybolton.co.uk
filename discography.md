@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Public Working Draft: Version 0.1.1<br>
-	(Updated: January 24, 2025)<br>
+	Version 1.0.0<br>
+	(Updated: January 26, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -103,7 +103,7 @@ image:
 		A. G. Kozak<br>
 		Berkeley, California<br>
 		<a href="https://bettybolton.co.uk">bettybolton.co.uk</a><br>
-		<!-- January 26, 2025 (Betty Bolton&rsquo;s 119th birthday)<br><br> -->
+		January 26, 2025 (Betty Bolton&rsquo;s 119th birthday)<br><br>
 	</p>
 
 </section>
