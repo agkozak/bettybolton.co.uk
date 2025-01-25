@@ -8,8 +8,6 @@ image:
   path: /assets/img/sidebar-bg.jpg
 ---
 
-## Coming in January 2025!
-
 ![Betty Bolton](assets/img/images/Betty-Bolton-1936.jpg)
 {: style="width: 200px; padding-bottom: 35px; margin: 0 auto;"}
 
@@ -17,8 +15,8 @@ Betty Bolton
 (From the Collection of Terry Brown)
 {:.figcaption}
 
-Slated for a January 26, 2025 official launch, [bettybolton.co.uk](/) is intended to be a hub for all things Betty Bolton. I have not finished my biography page yet, but in the meantime you may enjoy the growing collection of [images](/images/), the new [discography](/discography/), and the [YouTube playlist](/playlist/). In the near future there will also be a blog.
+Launced on her 119th birthday (January 26, 2025), [bettybolton.co.uk](/) is a hub for all things related to British entertainer Betty Bolton. Read the new [biography](/biography/), peruse the beautiful [images](/images/), consult the [discography](/discography/), or listen to the [playlist](/playlist/). A blog is in the works!
 
-As always, if you have any suggestions or additions, please [contact me](/contact/).
+And please [contact me](/contact/) with suggestions.
 
 A. G. Kozak
