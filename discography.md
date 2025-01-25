@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Public Working Draft: Version 0.1.0<br>
-	(Updated: January 15, 2025)<br>
+	Public Working Draft: Version 0.1.1<br>
+	(Updated: January 24, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -31,7 +31,7 @@ image:
 
 	<h2>Table of Contents</h2>
 
-	<ul>
+	<ul id="markdown-toc" class="toc-show">
 		<li><a href="#toc-intro">Introduction</a></li>
 		<li><a href="#toc-reflist">Reference List</a></li>
 		<li>Abbreviations
@@ -132,6 +132,7 @@ image:
 		<li>&#11835;. 2024b. &ldquo;Filmophone.&rdquo; Mike Thomas&rsquo; Website. Last modified October 2, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm">http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm</a>. <span class="sources"><span class="nobr">(MGT-Film)</span></span></li>
 		<li>&#11835;. 2024c. &ldquo;Eclipse8.&rdquo; Mike Thomas&rsquo; Website. Last modified November 13, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm">http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm</a>. <span class="sources"><span class="nobr">(MGT-Ecl)</span></span></li>
 		<li>&#11835;. 2024d. &ldquo;Trusound.&rdquo; Mike Thomas&rsquo; Website. Last modified December 15, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm">http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm</a>. <span class="sources"><span class="nobr">(MGT-Trusound)</span></span></li>
+		<li>Wright, John. 2021. &ldquo;Len Fillis Discography.&rdquo; r2ok! Last updated April 20, 2021. <a href="http://www.r2ok.co.uk/fillis.htm">http://www.r2ok.co.uk/fillis.htm</a>. <span class="sources"><span class="nobr">(JW)</span></span></li>
 	</ul>
 
 </section>
@@ -153,6 +154,7 @@ image:
 		<tr><td>EBWR</td><td>Adrian and Badrock. <cite>Edison Bell Winner Records</cite>.</td></tr>
 		<tr><td>FA-Col</td><td>Frank Andrews. <cite>Columbia 10&Prime; Records, 1904-30</cite>.</td></tr>
 		<tr><td>JRR</td><td>Brian Rust. <cite>Jazz and Ragtime Records 1897-1942</cite>.</td></tr>
+		<tr><td>JW</td><td>John Wright. &ldquo;Len Fillis Discography.&rdquo;</td></tr>
 		<tr><td>MGT-Col</td><td>Michael G. Thomas. Columbia.</td></tr>
 		<tr><td>MGT-EBR</td><td>Michael G. Thomas. Radio.</td></tr>
 		<tr><td>MGT-Ecl</td><td>Michael G. Thomas. Eclipse8.</td></tr>
@@ -232,12 +234,14 @@ image:
 
 		<p class="session-notes">At the very beginning of &ldquo;Evening star,&rdquo; someone would appear to be vocally harmonizing briefly with Bolton.</p>
 
+		<p class="session-notes">John Wright has &ldquo;March 9, 1929&rdquo; for this session <span class="sources">(JW)</span>.</p><!-- Unlikely, if BDBR's surrounding matrix dates are correct. -->
+
 		<!-- WA-8641-2: 3/2/1929; WA-8654: 3/7/1929 -->
 
 		<!-- Everything I do: https://www.youtube.com/watch?v=CKpfgwBSmok -->
 		<!-- Me and the man: https://www.youtube.com/watch?v=pL_J7Blsod0 -->
 
-		<p class="sources">FA-Col, ML, AGK</p>
+		<p class="sources">FA-Col, ML, JW, AGK</p>
 
 	</div>
 
@@ -440,7 +444,9 @@ image:
 			</tr>
 		</table>
 
-		<p class="sources">FA-Col, ML, DB</p>
+		<p class="session-notes">John Wright tentatively identifies Len Fillis playing the guitar in (-1) and (-2) and lists &ldquo;~May 12, 1929&rdquo; as the session date <span class="sources">(JW)</span>.</p><!-- He's possibly right about the latter. -->
+
+		<p class="sources">FA-Col, ML, DB, JW</p>
 
 	</div>
 
@@ -585,7 +591,7 @@ image:
 
 		<p class="session-notes">Take 4 was issued, with a vocal by Lou Abelardo <span class="sources">(BDBR; ML)</span>.</p>
 
-		<p class="sources">BDBR, ML</p>
+		<p class="sources">BDBR, ML, JW</p>
 
 	</div>
 
@@ -647,7 +653,7 @@ image:
 
 		<!-- https://heritagequay.org/archives/BDB/F7/16/ -->
 
-		<p class="sources">BDBR, ML</p>
+		<p class="sources">BDBR, ML, JW</p>
 
 	</div>
 
@@ -919,7 +925,7 @@ image:
 			</tr>
 		</table>
 
-		<p class="session-notes">The issued takes were 1 and 2 (recorded on March 3, 1931) and 5 (recorded on March 31, 1931)&mdash;but in those takes the singer was Elsie Carlisle, not Betty Bolton<span class="sources">(BDBR; ML)</span>.</p>
+		<p class="session-notes">The issued takes were 1 and 2 (recorded on March 3, 1931) and 5 (recorded on March 31, 1931)&mdash;but in those takes the singer was Elsie Carlisle, not Betty Bolton <span class="sources">(BDBR; ML)</span>.</p>
 
 		<p class="sources">BDBR, ML</p>
 
