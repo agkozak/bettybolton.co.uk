@@ -12,3 +12,7 @@ description: >
 - [Elsie Carlisle](https://www.elsiecarlisle.com)
 - [Maurice Elwin](https://mauriceelwin.com)
 - [Anne Lenner](https://annelenner.com)
+
+## For 78 Collectors
+
+- [78curves: Real-Time 78 rpm Equalization Curves for Equalizer APO](https://agkozak.github.io/78curves/) (A. G. Kozak)
