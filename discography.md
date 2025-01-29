@@ -247,7 +247,7 @@ image:
 
 	<div class="session">
 
-		<h3><span class="label-name">The Picadilly Players</span>, under the direction of <span class="label-name">Al Starita</span> (as the <span class="label-name">Stellar Dance Band</span> on Regal), with vocal chorus by <span class="label-name">Betty Bolton</span>. London, March 9, 1929.</h3>
+		<h3><span class="label-name">The Piccadilly Players</span>, under the direction of <span class="label-name">Al Starita</span> (as the <span class="label-name">Stellar Dance Band</span> on Regal), with vocal chorus by <span class="label-name">Betty Bolton</span>. London, March 9, 1929.</h3>
 
 		<table>
 			<tr>
@@ -319,7 +319,7 @@ image:
 
 	<div class="session">
 
-		<h3><span class="label-name">The Picadilly Players</span>, under the direction of <span class="label-name">Al Starita</span>, vocal chorus. London, April 13, 1929.</h3>
+		<h3><span class="label-name">The Piccadilly Players</span>, under the direction of <span class="label-name">Al Starita</span>, vocal chorus. London, April 13, 1929.</h3>
 
 		<table>
 			<tr>
