@@ -47,6 +47,6 @@ description:    >
     <!-- Custom Confirmation / Success Page -->
     <input type="hidden" name="redirect" value="https://bettybolton.co.uk/thank-you/">
 
-    <button type="submit">Submit Form</button>
+    <button type="submit" class="btn btn-primary">Submit</button>
 
 </form>
