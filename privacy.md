@@ -7,7 +7,8 @@ sitemap:	false
 
 ## Website Identity
 
-[bettybolton.co.uk](https://bettybolton.co.uk) is owned and managed by [A. G. Kozak](https://www.agkozak.com).
+[bettybolton.co.uk](https://bettybolton.co.uk) is owned and managed by
+[A. G. Kozak](https://www.agkozak.com).
 
 ## Analytics
 
@@ -19,8 +20,8 @@ personal data is stored.
 
 The [contact form](/contact/) uses
 [Web3Forms](https://docs.web3forms.com/getting-started/faq#id-2.-gdpr-and-privacy)
-to generate e-mail that is sent to the site owner. Form submissions are not
-stored on a server. The owner does not engage in mass mailing.
+to generate e-mail that is sent to the site owner. Web3Forms does not store form
+submissions. Your email address will not be used for mass mailing.
 
 ## Cookies
 
