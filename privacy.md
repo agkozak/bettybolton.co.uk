@@ -33,5 +33,5 @@ but [embedded content](#embedded-content-from-other-websites) may do so.
 Pages and articles on this site may contain embedded content, e.g., YouTube
 videos. Engaging with that content is comparable to visiting another website.
 Cookies may be created and you may be tracked.
-[bettybolton.co.uk](https://bettybolton.co.uk) tries to minimizes tracking by
+[bettybolton.co.uk](https://bettybolton.co.uk) tries to minimize tracking by
 using `youtube-nocookie.com`.
