@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Version 1.0.0<br>
-	(Updated: January 26, 2025)<br>
+	Version 1.0.1<br>
+	(Updated: February 3, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -115,24 +115,24 @@ image:
 	<h2 id="toc-reflist">Reference List</h2>
 
 	<ul>
-		<li>Adrian, Karlo, and Arthur Badrock. 1989. <cite>Edison Bell Winner Records</cite>. Second, revised edition. Bournemouth: E. Bayly. <span class="sources">(EBWR)</span></li>
-		<li>Andrews, Frank. 1985. <cite>Columbia 10&Prime; Records, 1904-30</cite>. London: City of London Phonograph and Gramophone Society. <span class="sources">(FA-Col)</span></li>
-		<li>Andrews, Frank, and Bill Dean-Myatt. 2014. <cite>The Imperial Records</cite>. CLPGS Reference Series No. 33. Hailsham, East Sussex: City of London Phonograph and Gramophone Society. <span class="sources"><span class="nobr">(ADM-Imp)</span></span></li>
-		<li>Andrews, Frank, Jim Hayes, and Michael Smith. 2003. <cite>Columbia &lsquo;DB&rsquo; and &lsquo;LB&rsquo; Series</cite>. Wells-next-the-Sea, North Norfolk: City of London Phonograph and Gramophone Society. <span class="sources nobr">(DB)</span></li>
-		<li>Andrews, Frank, et al. 2019. <cite>Vocalion Records</cite>. CLPGS Reference Series No. 42. Third edition. Wells-next-the-Sea, UK: City of London Phonograph and Gramophone Society. <span class="sources"><span class="nobr">(VR)</span></span></li>
-		<li>Badrock, Arthur. 1994. &ldquo;Gracie Collins.&rdquo; <cite>Talking Machine Review</cite> 88 (Autumn/Winter): 2559-2560. <a href="https://archive.org/details/TMR88/page/n3/mode/2up">https://archive.org/details/TMR88/page/n3/mode/2up</a>. <span class="sources"><span class="nobr">(AB)</span></span></li>
-		<li>Badrock, Arthur, with Frank Andrews and Grant Pilcher. 1998. <cite>Filmophone Discography</cite>. Gillingham, Kent: Talking Machine Review. <span class="sources"><span class="nobr">(BAP)</span></span></li>
-		<li>Laird, Ross. 1996. <cite>Moanin&rsquo; Low: A Discography of Female Popular Vocal Recordings, 1920-1933</cite>. Westport, Connecticut: Greenwood Press. <span class="sources"><span class="nobr">(RL)</span></span></li>
-		<li>Rust, Brian. 2016. <cite>Jazz and Ragtime Records 1897-1942</cite>. Sixth Edition. Free Personal-Use Edition. Littleton, Colorado: Mainspring Press. <a href="https://archive.org/details/brian-rust-jazz-records-free-edition-6">https://archive.org/details/brian-rust-jazz-records-free-edition-6</a>. <span class="sources"><span class="nobr">(JRR)</span></span></li>
-		<li>Rust, Brian, and Sandy Forbes. 1989. <cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite>. Bungay, Suffolk: Richard Clay, Ltd. <a href="https://www.phonotoneclassic.com/british-dance-band-discography">https://www.phonotoneclassic.com/british-dance-band-discography</a>. <span class="sources"><span class="nobr">(BDBR)</span></span></li>
-		<li>Smith, Michael. 2009. <cite>Decca Records Company, Ltd. Royal Blue and Gold &lsquo;F&rsquo; Series 10 Inch 78 rpm Records</cite>. Volumes I and II. Hunstanton, Norfolk: The Whitley Press. <span class="sources"><span class="nobr">(MS-F)</span></span></li>
-		<li>Thomas, Michael G. 2021. &ldquo;Radio.&rdquo; Mike Thomas&rsquo; Website. Last modified May 1, 2021. <a href="http://mgthomas.co.uk/Records/LabelPages/EdisonBellRadio.htm">http://mgthomas.co.uk/Records/LabelPages/EdisonBellRadio.htm</a>. <span class="sources"><span class="nobr">(MGT-EBR)</span></span></li>
-		<li>&#11835;. 2023. &ldquo;Columbia.&rdquo; Mike Thomas&rsquo; Website. Last modified November 7, 2023. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Columbia.htm">http://www.mgthomas.co.uk/Records/LabelPages/Columbia.htm</a>. <span class="sources"><span class="nobr">(MGT-Col)</span></span></li>
-		<li>&#11835;. 2024a. &ldquo;Rex.&rdquo; Mike Thomas&rsquo; Website. Last modified July 13, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Rex.htm">http://www.mgthomas.co.uk/Records/LabelPages/Rex.htm</a>. <span class="sources"><span class="nobr">(MGT-Rex)</span></span></li>
-		<li>&#11835;. 2024b. &ldquo;Filmophone.&rdquo; Mike Thomas&rsquo; Website. Last modified October 2, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm">http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm</a>. <span class="sources"><span class="nobr">(MGT-Film)</span></span></li>
-		<li>&#11835;. 2024c. &ldquo;Eclipse8.&rdquo; Mike Thomas&rsquo; Website. Last modified November 13, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm">http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm</a>. <span class="sources"><span class="nobr">(MGT-Ecl)</span></span></li>
-		<li>&#11835;. 2024d. &ldquo;Trusound.&rdquo; Mike Thomas&rsquo; Website. Last modified December 15, 2024. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm">http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm</a>. <span class="sources"><span class="nobr">(MGT-Trusound)</span></span></li>
-		<li>Wright, John. 2021. &ldquo;Len Fillis Discography.&rdquo; r2ok! Last updated April 20, 2021. <a href="http://www.r2ok.co.uk/fillis.htm">http://www.r2ok.co.uk/fillis.htm</a>. <span class="sources"><span class="nobr">(JW)</span></span></li>
+		<li>Adrian, Karlo, and Arthur Badrock. 1989. <cite>Edison Bell Winner Records</cite>. Second, revised edition. E. Bayly. <span class="sources">(EBWR)</span></li>
+		<li>Andrews, Frank. 1985. <cite>Columbia 10&Prime; Records, 1904-30</cite>. City of London Phonograph and Gramophone Society. <span class="sources">(FA-Col)</span></li>
+		<li>Andrews, Frank, and Bill Dean-Myatt. 2014. <cite>The Imperial Records</cite>. CLPGS Reference Series No. 33. City of London Phonograph and Gramophone Society. <span class="sources nobr">(ADM-Imp)</span></li>
+		<li>Andrews, Frank, Jim Hayes, and Michael Smith. 2003. <cite>Columbia &lsquo;DB&rsquo; and &lsquo;LB&rsquo; Series</cite>. City of London Phonograph and Gramophone Society. <span class="sources nobr">(DB)</span></li>
+		<li>Andrews, Frank, et al. 2019. <cite>Vocalion Records</cite>. CLPGS Reference Series No. 42. Third edition. City of London Phonograph and Gramophone Society. <span class="sources nobr">(VR)</span></li>
+		<li>Badrock, Arthur. 1994. <a href="https://archive.org/details/TMR88/page/n3/mode/2up">&ldquo;Gracie Collins.&rdquo;</a> <cite>Talking Machine Review</cite> 88 (Autumn/Winter): 2559-2560. <span class="sources nobr">(AB)</span></li>
+		<li>Badrock, Arthur, with Frank Andrews and Grant Pilcher. 1998. <cite>Filmophone Discography</cite>. Talking Machine Review. <span class="sources nobr">(BAP)</span></li>
+		<li>Laird, Ross. 1996. <a href="https://adp-assets.library.ucsb.edu/LairdMoaninLow.pdf"><cite>Moanin&rsquo; Low: A Discography of Female Popular Vocal Recordings, 1920-1933</cite></a>. Greenwood Press. <span class="sources nobr">(RL)</span></li>
+		<li>Rust, Brian. 2016. <a href="https://archive.org/details/brian-rust-jazz-records-free-edition-6"><cite>Jazz and Ragtime Records 1897-1942</cite></a>. Sixth Edition. Free Personal-Use Edition. Mainspring Press. <span class="sources nobr">(JRR)</span></li>
+		<li>Rust, Brian, and Sandy Forbes. 1989. <a href="https://www.phonotoneclassic.com/british-dance-band-discography"><cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite></a>. Richard Clay, Ltd. <span class="sources nobr">(BDBR)</span></li>
+		<li>Smith, Michael. 2009. <cite>Decca Records Company, Ltd. Royal Blue and Gold &lsquo;F&rsquo; Series 10 Inch 78 rpm Records</cite>. Volumes I and II. The Whitley Press. <span class="sources nobr">(MS-F)</span></li>
+		<li>Thomas, Michael G. 2021. <a href="http://mgthomas.co.uk/Records/LabelPages/EdisonBellRadio.htm">&ldquo;Radio.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified May 1, 2021. <span class="sources nobr">(MGT-EBR)</span></li>
+		<li>&#11835;. 2023. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Columbia.htm">&ldquo;Columbia.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified November 7, 2023. <span class="sources nobr">(MGT-Col)</span></li>
+		<li>&#11835;. 2024a. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Rex.htm">&ldquo;Rex.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified July 13, 2024. <span class="sources nobr">(MGT-Rex)</span></li>
+		<li>&#11835;. 2024b. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm">&ldquo;Filmophone.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified October 2, 2024. <span class="sources nobr">(MGT-Film)</span></li>
+		<li>&#11835;. 2024c. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm">&ldquo;Eclipse8.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified November 13, 2024. <span class="sources nobr">(MGT-Ecl)</span></li>
+		<li>&#11835;. 2024d. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm">&ldquo;Trusound.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified December 15, 2024. <span class="sources nobr">(MGT-Trusound)</span></li>
+		<li>Wright, John. 2021. <a href="http://www.r2ok.co.uk/fillis.htm">&ldquo;Len Fillis Discography.&rdquo;</a> r2ok! Last updated April 20, 2021. <span class="sources nobr">(JW)</span></li>
 	</ul>
 
 </section>
@@ -439,7 +439,7 @@ image:
 			<tr>
 				<td>WA-9003-<span class="issued">2</span></td>
 				<td>Peace of mind (Dyrenforth-Gibbons)</td>
-				<td><span class="cf">Col DB-18</span>, <span class="nobr">Re G-20699 (AU)</span></td>
+				<td><span class="cf">Col DB-18</span>, <span class="cf nobr">Re G-20699 (AU)</span></td>
 				<td>(-3)</td>
 			</tr>
 		</table>
@@ -569,7 +569,7 @@ image:
 			<tr>
 				<td>WA-10057-<span class="issued">2</span></td>
 				<td>Dream lover (film <cite>The Love Parade</cite>) (Grey-Schertzinger)</td>
-				<td><span class="cf">Col DB-18</span>, <span class="nobr">Re G-20699 (AU)</span></td>
+				<td><span class="cf">Col DB-18</span>, <span class="cf nobr">Re G-20699 (AU)</span></td>
 			</tr>
 		</table>
 
