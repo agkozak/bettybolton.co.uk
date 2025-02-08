@@ -15,7 +15,7 @@ Betty Bolton
 (From the collection of Terry Brown)
 {:.figcaption}
 
-Launched on her 119th birthday (January 26, 2025), [bettybolton.co.uk](/) is a hub for all things related to British entertainer Betty Bolton. Read the new [biography](/biography/), peruse the beautiful [images](/images/), consult the [discography](/discography/), or listen to the [playlist](/playlist/). A blog is in the works!
+Launched on her 119th birthday (January 26, 2025), [bettybolton.co.uk](/) is a hub for all things related to British entertainer Betty Bolton. Read the new [biography](/biography/), peruse the beautiful [images](/images/), consult the [discography](/discography/), listen to the [playlist](/playlist/), or read the new [blog](/blog).
 
 And please [contact me](/contact/) with suggestions.
 
