@@ -3,7 +3,8 @@ layout:		page
 title:		Biography of Betty Bolton
 permalink:	/biography/
 description: >
-  A biography of actress and singer Betty Bolton (1906-2005)
+  A biography of actress and singer Betty Bolton (1906-2005), whose unmistakable
+  voice helped define the British dance band era
 image:
   path: /assets/img/sidebar-bg.jpg
 ---
