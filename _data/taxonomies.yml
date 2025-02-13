@@ -4,6 +4,12 @@
 bob-rothberg:
   name: Bob Rothberg
 
+clifford-grey:
+  name: Clifford Grey
+
+edward-cooper:
+  name: Edward Cooper
+
 george-scott-wood:
   name: George Scott Wood
 
@@ -36,6 +42,9 @@ raymond-wallace:
 
 reg-connelly:
   name: Reg. Connelly
+
+victor-schertzinger:
+  name: Victor Schertzinger
 
 willard-robison:
   name: Willard Robison

@@ -15,7 +15,7 @@ description: >
 
 *Personnel: Ray Starita cl-ts dir. Max Goldberg-t-mel[^1] / another-t / ?Bill Hall-tb / Chester Smith-another-cl-as / Reg. Pursglove-vn / Donald Thorne-p / George Oliver-bj-g / Arthur Calkin-bb-sb / Rudy Starita-d-vib-x / Betty Bolton-v*
 
-<iframe class="youtube-video" style="display: block; margin: 0 auto;" src="https://www.youtube-nocookie.com/embed/XeWkJxQ2XDQ?si=AW2t1XoQHliaU8Iv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube-nocookie.com/embed/XeWkJxQ2XDQ?si=AW2t1XoQHliaU8Iv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ray Starita and His Ambassadors Band (v. Betty Bolton)  
 ["Blue Hills of Pasadena" (1929)](https://www.youtube.com/watch?v=XeWkJxQ2XDQ)
