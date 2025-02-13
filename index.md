@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: grid
 title: Betty Bolton
 description: >
   Actress, dancer, singer, radio star, and recording artist, Betty Bolton
