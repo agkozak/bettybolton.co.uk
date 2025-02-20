@@ -367,12 +367,12 @@ image:
 			</tr>
 			<tr>
 				<td>WAX-4876-<span class="issued">1</span></td>
-				<td>&ldquo;Thinking of you&rdquo; (in &ldquo;The Five O&rsquo;Clock Girl &mdash; selection, part 1&rdquo;) (Kalmar-Ruby)</td>
+				<td>&ldquo;Thinking of you&rdquo; (in &ldquo;<cite>The Five O&rsquo;Clock Girl</cite> &mdash; selection, part 1&rdquo;) (Kalmar-Ruby)</td>
 				<td class="cf">Col 9715, <span class="nobr">Col 02886 (AU)</span></td>
 			</tr>
 			<tr>
 				<td>WAX-4877-<span class="issued">2</span></td>
-				<td>&ldquo;Up in the clouds&rdquo; (in &ldquo;The Five O&rsquo;Clock Girl &mdash; selection, part 2&rdquo;) (Kalmar-Ruby)</td>
+				<td>&ldquo;Up in the clouds&rdquo; (in &ldquo;<cite>The Five O&rsquo;Clock Girl</cite> &mdash; selection, part 2&rdquo;) (Kalmar-Ruby)</td>
 				<td class="cf">Col 9715, <span class="nobr">Col 02886 (AU)</span></td>
 			</tr>
 		</table>
