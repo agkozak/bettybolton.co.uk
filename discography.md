@@ -199,7 +199,7 @@ image:
 
 	<div class="session">
 
-		<h3><span class="label-name">Betty Bolton</span>, contralto, with piano (and celeste [-1] and vibraphone [-2]): <span class="label-name">Edward Cooper</span>; and guitar: <span class="label-name">Len Fillis</span>. London, March 6, 1929.</h3>
+	<h3><span class="label-name">Betty Bolton</span>, contralto, with piano: <span class="label-name">Edward Cooper</span>; and guitar: <span class="label-name">Len Fillis</span> (also with celeste [-1]; with vibraphone [-2]). London, March 6, 1929.</h3>
 
 		<table>
 			<tr>

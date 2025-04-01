@@ -4,6 +4,9 @@
 bob-rothberg:
   name: Bob Rothberg
 
+charles-n-daniels:
+  name: Charles N. Daniels
+
 clifford-grey:
   name: Clifford Grey
 
@@ -12,6 +15,9 @@ edward-cooper:
 
 george-scott-wood:
   name: George Scott Wood
+
+gus-kahn:
+  name: Gus Kahn
 
 horatio-nicholls:
   name: Horatio Nicholls
@@ -28,8 +34,14 @@ jo-trent:
 lawrence-wright:
   name: Lawrence Wright
 
+len-fillis:
+  name: Len Fillis
+
 leo-herbert:
   name: Leo Herbert
+
+neil-moret:
+  name: Neil Moret
 
 peter-tinturin:
   name: Peter Tinturin
