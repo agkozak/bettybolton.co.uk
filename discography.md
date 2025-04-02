@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Version 1.0.2<br>
-	(Updated: March 10, 2025)<br>
+	Version 1.0.3<br>
+	(Updated: April 2, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -122,6 +122,7 @@ image:
 		<li>Andrews, Frank, et al. 2019. <cite>Vocalion Records</cite>. CLPGS Reference Series No. 42. Third edition. City of London Phonograph and Gramophone Society. <span class="sources nobr">(VR)</span></li>
 		<li>Badrock, Arthur. 1994. <a href="https://archive.org/details/TMR88/page/n3/mode/2up">&ldquo;Gracie Collins.&rdquo;</a> <cite>Talking Machine Review</cite> 88 (Autumn/Winter): 2559-2560. <span class="sources nobr">(AB)</span></li>
 		<li>Badrock, Arthur, with Frank Andrews and Grant Pilcher. 1998. <cite>Filmophone Discography</cite>. Talking Machine Review. <span class="sources nobr">(BAP)</span></li>
+		<li>Kozak, A. G. 2022. <a href="https://doi.org/10.5281/zenodo.3753041"><cite>Croonette: An Elsie Carlisle Discography (version 2.1.0)</cite></a>. Zenodo. <span class="sources nobr">(AGK-EC)</span></li>
 		<li>Laird, Ross. 1996. <a href="https://adp-assets.library.ucsb.edu/LairdMoaninLow.pdf"><cite>Moanin&rsquo; Low: A Discography of Female Popular Vocal Recordings, 1920-1933</cite></a>. Greenwood Press. <span class="sources nobr">(RL)</span></li>
 		<li>Rust, Brian. 2016. <a href="https://archive.org/details/brian-rust-jazz-records-free-edition-6"><cite>Jazz and Ragtime Records 1897-1942</cite></a>. Sixth Edition. Free Personal-Use Edition. Mainspring Press. <span class="sources nobr">(JRR)</span></li>
 		<li>Rust, Brian, and Sandy Forbes. 1989. <a href="https://www.phonotoneclassic.com/british-dance-band-discography"><cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite></a>. Richard Clay, Ltd. <span class="sources nobr">(BDBR)</span></li>
@@ -147,6 +148,7 @@ image:
 		<tr><td>AB</td><td>Arthur Badrock. &ldquo;Gracie Collins.&rdquo;</td></tr>
 		<tr><td>ADM-Imp</td><td>Andrews and Dean-Myatt. <cite>The Imperial Records</cite>.</td></tr>
 		<tr><td>AGK</td><td>My collection.</td></tr>
+		<tr><td>AGK-EC</td><td>A. G. Kozak. <cite>Croonette: An Elsie Carlisle Discography</cite>.</td></tr>
 		<tr><td>BAP</td><td>Badrock, Andrews, and Pilcher. <cite>Filmophone Discography</cite>.</td></tr>
 		<tr><td>BDBR</td><td>Rust and Forbes. <cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite>.</td></tr>
 		<tr><td>DB</td><td>Frank Andrews, Jim Hayes, and Michael Smith. <cite>Columbia &lsquo;DB&rsquo; and &lsquo;LB&rsquo; Series.</cite></td></tr>
@@ -199,7 +201,7 @@ image:
 
 	<div class="session">
 
-	<h3><span class="label-name">Betty Bolton</span>, contralto, with piano: <span class="label-name">Edward Cooper</span>; and guitar: <span class="label-name">Len Fillis</span> (also with celeste [-1]; with vibraphone [-2]). London, March 6, 1929.</h3>
+		<h3><span class="label-name">Betty Bolton</span>, contralto, with piano: <span class="label-name">Edward Cooper</span>; and guitar: <span class="label-name">Len Fillis</span> (also with celeste [-1]; with vibraphone [-2]). London, March 6, 1929.</h3>
 
 		<table>
 			<tr>
@@ -925,9 +927,9 @@ image:
 			</tr>
 		</table>
 
-		<p class="session-notes">The issued takes were 1 and 2 (recorded on March 3, 1931) and 5 (recorded on March 31, 1931)&mdash;but in those takes the singer was Elsie Carlisle, not Betty Bolton <span class="sources">(BDBR; ML)</span>.</p>
+		<p class="session-notes">The issued takes were 1 and 2 (recorded on March 3, 1931) and 5 (recorded on March 31, 1931)&mdash;but in those takes the singer was Elsie Carlisle, not Betty Bolton <span class="sources">(BDBR; ML; AGK-EC)</span>.</p>
 
-		<p class="sources">BDBR, ML</p>
+		<p class="sources">BDBR, ML, AGK-EC</p>
 
 	</div>
 
