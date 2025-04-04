@@ -224,6 +224,13 @@ Official BBC television broadcasts began on August 22, 1932, and Bolton was on t
 
 Bolton's co-star Fred Douglas would confirm the details of the outlandish makeup (made more awkward, no doubt, by the fact that he was also in blackface), and also described the unpleasant experience of looking into the bright arc lamp that made the transmission of moving pictures possible.[^79] Even the actors' clothing had to be especially suited to the bright light, and Madame Maud Bolton---who was acting as Betty's assistant---became something of an expert in dressing her daughter for these occasions.[^80]
 
+![Lousie Freear, Fred Douglas, Betty Astell, and Betty Bolton on August 22, 1932](/assets/img/biography/betty-bolton-et-al.jpg)
+{: style="text-align: center;"}
+
+Lousie Freear, Fred Douglas, Betty Astell, and Betty Bolton on August 22, 1932  
+From the collection of Terry Brown
+{:.figcaption}
+
 During the course of the first official BBC television programme, "\[Betty\] Bolton sang and danced, and was shown full length."[^81] Another reporter remarked that "\[she\] came through very well, and her various movements during the singing of her songs could be followed quite clearly."[^82]
 
 Bolton went on to appear on at least four more television programs that year, followed by another six in 1933, six in 1934, and two in 1935. Her on-air acts were most frequently described as "songs and dances." It should be noted that the Baird technology was abandoned in 1935. The BBC replaced it in 1936 with a system that offered higher fidelity.
