@@ -140,7 +140,7 @@ We are fortunate that Lee White recorded quite a number of songs. I would encour
 
 In late 1924, Bolton took up the role of "Almond Eye," a slave girl, in *The First Kiss*, an English-language adaptation of the Spanish *[zarzuela](https://en.wikipedia.org/wiki/Zarzuela)* *El Asombro de Damascus* by Pedro Luna (based on *The Arabian Nights*). A photograph exists of her heavily made up to play the role. The show had a short run, after which she took a couple of years off to look after her mother.[^44]
 
-In 1927, Bolton returned to the stage in [*The Dybbuk*](https://en.wikipedia.org/wiki/The_Dybbuk), an originally Russian-language play concerning demonic possession that had been translated into Yiddish and thence to English. Later in the year, she played one of her more remarked-upon characters in *The Wolves* (a crime story set in Greenland) as the Inuit woman Naroutcha:
+In 1927, Bolton returned to the stage in [*The Dybbuk*](https://en.wikipedia.org/wiki/The_Dybbuk), an originally Russian-language play concerning demonic possession that had been translated into Yiddish and thence into English. Later in the year, she played one of her more remarked-upon characters in *The Wolves* (a crime story set in Greenland) as the Inuit woman Naroutcha:
 
 > In the comparatively small rôle of Naroutcha Miss Betty Bolton also scored...
 >
