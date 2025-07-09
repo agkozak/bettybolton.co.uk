@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Version 1.0.3<br>
-	(Updated: April 2, 2025)<br>
+	Version 1.0.4<br>
+	(Updated: July 9, 2025)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -61,13 +61,13 @@ image:
 
 	<h2 id="toc-intro">Introduction</h2>
 
-	<p>In the course of just under six years (1929-1935), English singer Betty Bolton recorded 115 record sides and thus established herself as a comparatively prolific recording artist by the standards of the interwar period. Bolton&rsquo;s origins were in the musical comedies of the London stage, and record producers must have recognized her significant talent for making funny or risqué songs even more entertaining through her bold and idiosyncratic delivery. Yet she could also be called upon to inject sincerity into a song that called for it, and her vocals can be incredibly touching, memorable, and beautiful.</p>
+	<p>In the course of just under six years (1929&ndash;1935), English singer Betty Bolton recorded 115 record sides and thus established herself as a comparatively prolific recording artist by the standards of the interwar period. Bolton&rsquo;s origins were in the musical comedies of the London stage, and record producers must have recognized her significant talent for making funny or risqué songs even more entertaining through her bold and idiosyncratic delivery. Yet she could also inject sincerity into a song that called for it, and her vocals can be incredibly touching, memorable, and beautiful.</p>
 
 	<p>I will reserve further questions of biography and artistic excellence for the rest of my <a href="https://bettybolton.co.uk">Betty Bolton</a> website. A discography should be simply a systematic account of facts and reasonable conjectures pertaining to the understanding of artists&rsquo; known recordings, both extant and lost. It is worth making a few observations, however, about factors that complicate our identifying Betty Bolton records. It is particularly important to acknowledge some of the prior research that makes it possible for me to attempt as complete a list of her output as possible.</p>
 
-	<p>Bolton produced quite a few records that helpfully have the name &ldquo;Betty Bolton&rdquo; right on the label. However, like many artists of her time, she used two pseudonyms on the Eclipse label: &ldquo;Miss Lydia Russell&rdquo; and &ldquo;Gracie Collins.&rdquo; But both of these names were also used by other female artists on Eclipse, so firmly establishing that a Lydia Russell or a Gracie Collins record is a recording of Betty Bolton ultimately requires a copy of the record or a transfer&mdash;and a good ear.</p>
+	<p>Bolton produced quite a few records that helpfully have the name &ldquo;Betty Bolton&rdquo; right on the label. However, like many artists of her time, she used two pseudonyms on the Eclipse label: &ldquo;Miss Lydia Russell&rdquo; and &ldquo;Gracie Collins.&rdquo; But both of these names were also used by other female artists on Eclipse, so firmly establishing that a given Lydia Russell or Gracie Collins record is a recording of Betty Bolton ultimately requires a copy of the record or a transfer&mdash;and a good ear.</p>
 
-	<p>Another major problem is that Betty Bolton&rsquo;s name frequently does not appear on a record when the label features primarily the dance band for whom she is providing the vocal chorus. So far, we know her to have recorded with:</p>
+	<p>Another major challenge is that Betty Bolton&rsquo;s name usually does not appear on a record when the label features primarily the dance band for whom she is providing the vocal chorus. So far, we know her to have recorded with:</p>
 
 	<ul>
 		<li>The Piccadilly Players (sometimes under the pseudonym &ldquo;The Stellar Dance Band&rdquo;; Al Starita dir.)</li>
@@ -116,15 +116,15 @@ image:
 
 	<ul>
 		<li>Adrian, Karlo, and Arthur Badrock. 1989. <cite>Edison Bell Winner Records</cite>. Second, revised edition. E. Bayly. <span class="sources">(EBWR)</span></li>
-		<li>Andrews, Frank. 1985. <cite>Columbia 10&Prime; Records, 1904-30</cite>. City of London Phonograph and Gramophone Society. <span class="sources">(FA-Col)</span></li>
+		<li>Andrews, Frank. 1985. <cite>Columbia 10&Prime; Records, 1904&ndash;30</cite>. City of London Phonograph and Gramophone Society. <span class="sources">(FA-Col)</span></li>
 		<li>Andrews, Frank, and Bill Dean-Myatt. 2014. <cite>The Imperial Records</cite>. CLPGS Reference Series No. 33. City of London Phonograph and Gramophone Society. <span class="sources nobr">(ADM-Imp)</span></li>
 		<li>Andrews, Frank, Jim Hayes, and Michael Smith. 2003. <cite>Columbia &lsquo;DB&rsquo; and &lsquo;LB&rsquo; Series</cite>. City of London Phonograph and Gramophone Society. <span class="sources nobr">(DB)</span></li>
 		<li>Andrews, Frank, et al. 2019. <cite>Vocalion Records</cite>. CLPGS Reference Series No. 42. Third edition. City of London Phonograph and Gramophone Society. <span class="sources nobr">(VR)</span></li>
-		<li>Badrock, Arthur. 1994. <a href="https://archive.org/details/TMR88/page/n3/mode/2up">&ldquo;Gracie Collins.&rdquo;</a> <cite>Talking Machine Review</cite> 88 (Autumn/Winter): 2559-2560. <span class="sources nobr">(AB)</span></li>
+		<li>Badrock, Arthur. 1994. <a href="https://archive.org/details/TMR88/page/n3/mode/2up">&ldquo;Gracie Collins.&rdquo;</a> <cite>Talking Machine Review</cite> 88 (Autumn/Winter): 2559&ndash;2560. <span class="sources nobr">(AB)</span></li>
 		<li>Badrock, Arthur, with Frank Andrews and Grant Pilcher. 1998. <cite>Filmophone Discography</cite>. Talking Machine Review. <span class="sources nobr">(BAP)</span></li>
 		<li>Kozak, A. G. 2022. <a href="https://doi.org/10.5281/zenodo.3753041"><cite>Croonette: An Elsie Carlisle Discography (version 2.1.0)</cite></a>. Zenodo. <span class="sources nobr">(AGK-EC)</span></li>
-		<li>Laird, Ross. 1996. <a href="https://adp-assets.library.ucsb.edu/LairdMoaninLow.pdf"><cite>Moanin&rsquo; Low: A Discography of Female Popular Vocal Recordings, 1920-1933</cite></a>. Greenwood Press. <span class="sources nobr">(RL)</span></li>
-		<li>Rust, Brian. 2016. <a href="https://archive.org/details/brian-rust-jazz-records-free-edition-6"><cite>Jazz and Ragtime Records 1897-1942</cite></a>. Sixth Edition. Free Personal-Use Edition. Mainspring Press. <span class="sources nobr">(JRR)</span></li>
+		<li>Laird, Ross. 1996. <a href="https://adp-assets.library.ucsb.edu/LairdMoaninLow.pdf"><cite>Moanin&rsquo; Low: A Discography of Female Popular Vocal Recordings, 1920&ndash;1933</cite></a>. Greenwood Press. <span class="sources nobr">(RL)</span></li>
+		<li>Rust, Brian. 2016. <a href="https://archive.org/details/brian-rust-jazz-records-free-edition-6"><cite>Jazz and Ragtime Records 1897&ndash;1942</cite></a>. Sixth Edition. Free Personal-Use Edition. Mainspring Press. <span class="sources nobr">(JRR)</span></li>
 		<li>Rust, Brian, and Sandy Forbes. 1989. <a href="https://www.phonotoneclassic.com/british-dance-band-discography"><cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite></a>. Richard Clay, Ltd. <span class="sources nobr">(BDBR)</span></li>
 		<li>Smith, Michael. 2009. <cite>Decca Records Company, Ltd. Royal Blue and Gold &lsquo;F&rsquo; Series 10 Inch 78 rpm Records</cite>. Volumes I and II. The Whitley Press. <span class="sources nobr">(MS-F)</span></li>
 		<li>Thomas, Michael G. 2021. <a href="http://mgthomas.co.uk/Records/LabelPages/EdisonBellRadio.htm">&ldquo;Radio.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified May 1, 2021. <span class="sources nobr">(MGT-EBR)</span></li>
@@ -147,15 +147,15 @@ image:
 	<table>
 		<tr><td>AB</td><td>Arthur Badrock. &ldquo;Gracie Collins.&rdquo;</td></tr>
 		<tr><td>ADM-Imp</td><td>Andrews and Dean-Myatt. <cite>The Imperial Records</cite>.</td></tr>
-		<tr><td>AGK</td><td>My collection.</td></tr>
+		<tr><td>AGK</td><td>Author&rsquo;s collection.</td></tr>
 		<tr><td>AGK-EC</td><td>A. G. Kozak. <cite>Croonette: An Elsie Carlisle Discography</cite>.</td></tr>
 		<tr><td>BAP</td><td>Badrock, Andrews, and Pilcher. <cite>Filmophone Discography</cite>.</td></tr>
 		<tr><td>BDBR</td><td>Rust and Forbes. <cite>British Dance Bands on Record, 1911 to 1945, and Supplement</cite>.</td></tr>
 		<tr><td>DB</td><td>Frank Andrews, Jim Hayes, and Michael Smith. <cite>Columbia &lsquo;DB&rsquo; and &lsquo;LB&rsquo; Series.</cite></td></tr>
 		<tr><td>DW</td><td>The collection of David Weavings.</td></tr>
 		<tr><td>EBWR</td><td>Adrian and Badrock. <cite>Edison Bell Winner Records</cite>.</td></tr>
-		<tr><td>FA-Col</td><td>Frank Andrews. <cite>Columbia 10&Prime; Records, 1904-30</cite>.</td></tr>
-		<tr><td>JRR</td><td>Brian Rust. <cite>Jazz and Ragtime Records 1897-1942</cite>.</td></tr>
+		<tr><td>FA-Col</td><td>Frank Andrews. <cite>Columbia 10&Prime; Records, 1904&ndash;30</cite>.</td></tr>
+		<tr><td>JRR</td><td>Brian Rust. <cite>Jazz and Ragtime Records 1897&ndash;1942</cite>.</td></tr>
 		<tr><td>JW</td><td>John Wright. &ldquo;Len Fillis Discography.&rdquo;</td></tr>
 		<tr><td>MGT-Col</td><td>Michael G. Thomas. Columbia.</td></tr>
 		<tr><td>MGT-EBR</td><td>Michael G. Thomas. Radio.</td></tr>
@@ -234,7 +234,7 @@ image:
 
 		<p class="session-notes">Edward Cooper and Len Fillis&rsquo;s names are mentioned explicitly on the labels of Col 5366 but not 5320.</p>
 
-		<p class="session-notes">At the very beginning of &ldquo;Evening star,&rdquo; someone would appear to be vocally harmonizing briefly with Bolton.</p>
+		<p class="session-notes">At the very beginning of &ldquo;Evening star,&rdquo; someone would appear to be vocally harmonizing with Bolton.</p>
 
 		<p class="session-notes">John Wright has &ldquo;March 9, 1929&rdquo; for this session <span class="sources">(JW)</span>.</p><!-- Unlikely, if BDBR's surrounding matrix dates are correct. -->
 
@@ -1070,13 +1070,13 @@ image:
 
 	<div class="session">
 
-		<h3><span class="label-name">Jay Wilbur and His Band</span>, vocal chorus. London, June 3, 1931.</h3>
+		<h3><span class="label-name">Jay Wilbur and His Band</span>. London, June 3, 1931.</h3>
 
 		<table>
 			<tr>
 				<td>5710-<span class="issued">1</span>-<span class="issued">2</span></td>
-				<td>Ten cents a dance (Lorenz Hart-Richard Rodgers)</td>
-				<td>Imp 2484</td>
+				<td>Ten cents a dance (Rodgers-Hart)</td>
+				<td class="cf">Imp 2484</td>
 			</tr>
 		</table>
 
@@ -1433,13 +1433,13 @@ image:
 
 		<table>
 			<tr>
-				<td>JW-946-?</td>
+				<td>JW-946-<span class="issued">1</span></td>
 				<td>I&rsquo;m a lady policeman (Raymond Wallace [pseud. Huntley Trevor])</td>
 				<td><span class="cf">Ecl 333</span></td>
 				<td>(-1)</td>
 			</tr>
 			<tr>
-				<td>JW-947-?</td>
+				<td>JW-947-<span class="issued">1</span></td>
 				<td>I shan&rsquo;t bring him home anymore (J. P. Long)</td>
 				<td class="cf">Ecl 333</td>
 				<td></td>
@@ -1640,7 +1640,7 @@ image:
 
 	<h3>1. Session Headers</h3>
 
-	<p>Capital letters represent band names and personal names that actually appear on the record labels, whereas mixed-case names do not appear on the labels and represent research and aural evidence. Other information on the labels (e.g., &ldquo;vocal chorus&rdquo; or &ldquo;with piano&rdquo;) is provided in lowercase, with details not on the label (such as the name of an uncredited musical director) appearing in parentheses. Any information after the first period in a session header is entirely supplemental and will not be found on the record label.</p>
+	<p>Capital letters represent band names and personal names that actually appear on the record labels, whereas mixed-case names do not appear on the labels and reflect research and aural evidence. Other information on the labels (e.g., &ldquo;vocal chorus&rdquo; or &ldquo;with piano&rdquo;) is provided in lowercase, with details not on the label (such as the name of an uncredited musical director) appearing in parentheses. Any information after the first period in a session header is entirely supplemental and will not be found on the record label.</p>
 
 	<p>When an important detail (e.g., &ldquo;with speaking by Jay Wilbur&rdquo;) is true of one or more recordings made at a session, but not of all of them, the detail will be marked with a hyphen and a number in parentheses in the session header (e.g., &ldquo;(-1)&rdquo;) and also below in the individual song entries.</p>
 
