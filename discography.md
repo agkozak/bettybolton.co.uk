@@ -17,8 +17,8 @@ image:
 		<a itemprop="sameAs" href="https://orcid.org/0000-0002-8307-9716" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://bettybolton.co.uk/assets/img/ORCID-iD_icon_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-8307-9716</a>
 	</div>
 	<br>
-	Version 1.0.4<br>
-	(Updated: July 9, 2025)<br>
+	Version 1.0.5<br>
+	(Updated: February 16, 2026)<br>
 
 	<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>&copy; 2025 A. G. Kozak. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -61,7 +61,7 @@ image:
 
 	<h2 id="toc-intro">Introduction</h2>
 
-	<p>In the course of just under six years (1929&ndash;1935), English singer Betty Bolton recorded 115 record sides and thus established herself as a comparatively prolific recording artist by the standards of the interwar period. Bolton&rsquo;s origins were in the musical comedies of the London stage, and record producers must have recognized her significant talent for making funny or risqué songs even more entertaining through her bold and idiosyncratic delivery. Yet she could also inject sincerity into a song that called for it, and her vocals can be incredibly touching, memorable, and beautiful.</p>
+	<p>In the course of just under six years (1929&ndash;1935), English singer Betty Bolton recorded 116 record sides and thus established herself as a comparatively prolific recording artist by the standards of the interwar period. Bolton&rsquo;s origins were in the musical comedies of the London stage, and record producers must have recognized her significant talent for making funny or risqué songs even more entertaining through her bold and idiosyncratic delivery. Yet she could also inject sincerity into a song that called for it, and her vocals can be incredibly touching, memorable, and beautiful.</p>
 
 	<p>I will reserve further questions of biography and artistic excellence for the rest of my <a href="https://bettybolton.co.uk">Betty Bolton</a> website. A discography should be simply a systematic account of facts and reasonable conjectures pertaining to the understanding of artists&rsquo; known recordings, both extant and lost. It is worth making a few observations, however, about factors that complicate our identifying Betty Bolton records. It is particularly important to acknowledge some of the prior research that makes it possible for me to attempt as complete a list of her output as possible.</p>
 
@@ -99,11 +99,12 @@ image:
 	</ul>
 
 	<p>
-		<br>
+		<br><br>
 		A. G. Kozak<br>
 		Berkeley, California<br>
 		<a href="https://bettybolton.co.uk">bettybolton.co.uk</a><br>
-		January 26, 2025 (Betty Bolton&rsquo;s 119th birthday)<br><br>
+		January 26, 2025 (Betty Bolton&rsquo;s 119th birthday)<br>
+		(Introduction updated February 16, 2026 for version 1.0.5)<br><br>
 	</p>
 
 </section>
@@ -133,7 +134,7 @@ image:
 		<li>&#11835;. 2024b. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Filmophone.htm">&ldquo;Filmophone.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified October 2, 2024. <span class="sources nobr">(MGT-Film)</span></li>
 		<li>&#11835;. 2024c. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Eclipse8.htm">&ldquo;Eclipse8.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified November 13, 2024. <span class="sources nobr">(MGT-Ecl)</span></li>
 		<li>&#11835;. 2024d. <a href="http://www.mgthomas.co.uk/Records/LabelPages/Trusound.htm">&ldquo;Trusound.&rdquo;</a> Mike Thomas&rsquo; Website. Last modified December 15, 2024. <span class="sources nobr">(MGT-Trusound)</span></li>
-		<li>Wright, John. 2021. <a href="http://www.r2ok.co.uk/fillis.htm">&ldquo;Len Fillis Discography.&rdquo;</a> r2ok! Last updated April 20, 2021. <span class="sources nobr">(JW)</span></li>
+		<li>Wright, John. 2021. <a href="https://web.archive.org/web/20240606163319/http://www.r2ok.co.uk/fillis.htm">&ldquo;Len Fillis Discography.&rdquo;</a> r2ok! Last updated April 20, 2021. <span class="sources nobr">(JW)</span></li>
 	</ul>
 
 </section>
@@ -155,6 +156,7 @@ image:
 		<tr><td>DW</td><td>The collection of David Weavings.</td></tr>
 		<tr><td>EBWR</td><td>Adrian and Badrock. <cite>Edison Bell Winner Records</cite>.</td></tr>
 		<tr><td>FA-Col</td><td>Frank Andrews. <cite>Columbia 10&Prime; Records, 1904&ndash;30</cite>.</td></tr>
+		<tr><td>JDH</td><td>The collection of Jonathan David Holmes.</td></tr>
 		<tr><td>JRR</td><td>Brian Rust. <cite>Jazz and Ragtime Records 1897&ndash;1942</cite>.</td></tr>
 		<tr><td>JW</td><td>John Wright. &ldquo;Len Fillis Discography.&rdquo;</td></tr>
 		<tr><td>MGT-Col</td><td>Michael G. Thomas. Columbia.</td></tr>
@@ -1340,7 +1342,7 @@ image:
 
 		<table>
 			<tr>
-				<td>5951-?</td>
+				<td>5951-<span class="issued">1</span></td>
 				<td>The mocking bird went cuckoo (John Malvern)</td>
 				<td class="cf">Imp 2663</td>
 			</tr>
@@ -1355,7 +1357,7 @@ image:
 
 		<!-- TODO: The Windyridge CD would *appear* to have mx. 5952. Compare with mx. 6007. -->
 
-		<p class="sources">ML, ADM-Imp</p>
+		<p class="sources">ML, ADM-Imp, DH</p>
 
 	</div>
 
@@ -1457,6 +1459,24 @@ image:
 	<hr>
 
 	<h2 id="toc-1933">1933</h2>
+
+	<div class="session">
+
+		<h3>Betty Bolton, accompanied by Ivor Dennis on the piano. 1933?</h3>
+
+		<table>
+			<tr>
+				<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+				<td>He did it while I waited</td>
+				<td class="cf">Levy&rsquo;s unissued</td>
+			</tr>
+		</table>
+
+		<p class="session-notes">No matrix number was assigned to this recording, which was made privately by Levy&rsquo;s of Aldgate. At least one pressing is known to survive, whose reverse side, Imp mx. 6480 (&ldquo;No Funny Business,&rdquo; sung by Leslie Holmes) was recorded c. early October 1933. The song &ldquo;He did it while I waited&rdquo; is <a href="https://www.google.com/books/edition/Catalog_of_Copyright_Entries/YzBjAAAAIAAJ?hl=en&gbpv=1&dq=%22He+did+it+while+I+waited%22+1933&pg=PA1547&printsec=frontcover">copyright 1932,</a> so Mark Berresford&rsquo;s suggested approximate date of 1933 seems reasonable.</p>
+
+		<p class="sources">JDH</p>
+
+	</div>
 
 	<div class="session">
 
